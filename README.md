@@ -14,20 +14,6 @@
    ╚═╝    ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 </div>
 
----
-
-<div align="center">
-
-<!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=Cybersecurity+Specialist+%F0%9F%9B%A1%EF%B8%8F;Penetration+Tester+%7C+Red+Teamer;Reverse+Engineer+%7C+Exploit+Developer;OSINT+Researcher+%7C+RAT+Developer;30%2B+Certificates+%26+Counting...;Siber+Akademi+%7C+Turkey+%F0%9F%87%B9%F0%9F%87%B7;%3E%3E+Initializing+Payload...+%3C%3C)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-```bash
 ┌──(toprak㉿kali)-[~]
 └─$ whoami
 > toprak-ahmet-aydogmus
