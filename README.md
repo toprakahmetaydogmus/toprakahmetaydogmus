@@ -5,12 +5,12 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/toprakahmetaydogmus">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090d16,25:1a1b26,50:24283b,75:7aa2f7,100:bb9af7&height=260&section=header&text=TOPRAK%20AHMET%20AYDOĞMUŞ&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=⚔️%20Cybersecurity%20Specialist%20•%20Reverse%20Engineer%20•%20Embedded%20IoT%20Architect%20🌸&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090d16,25:1a1b26,50:24283b,75:7aa2f7,100:bb9af7&height=260&section=header&text=TOPRAK%20AHMET%20AYDO%C4%9EMU%C5%9E&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9A%94%EF%B8%8F%20Cybersecurity%20Specialist%20%E2%80%A2%20Reverse%20Engineer%20%E2%80%A2%20Embedded%20IoT%20Architect%20%F0%9F%8C%B8&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 </a>
 
 <p align="center">
   <a href="https://github.com/toprakahmetaydogmus">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=7AA2F7&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=45&lines=🛡️+Elite+Detection+Engineering+%26+SOC%2FSIEM+Pipelines;⚔️+Offensive+Security%2C+Active+Directory+%26+Identity+Defense;👾+Post-Quantum+Cryptography+(NIST+FIPS+203%2F204);🤖+AI-Native+Security+Agents+%26+Ollama+Threat+Hunting;⚡+Embedded+IoT%2C+2.4GHz+RF+Telemetry+%26+RISC-V+OS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=7AA2F7&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=45&lines=%F0%9F%9B%A1%EF%B8%8F+Elite+Detection+Engineering+%26+SOC%2FSIEM+Pipelines;%E2%9A%94%EF%B8%8F+Offensive+Security%2C+Active+Directory+%26+Identity+Defense;%F0%9F%91%BE+Post-Quantum+Cryptography+(NIST+FIPS+203%2F204);%F0%9F%A4%96+AI-Native+Security+Agents+%26+Ollama+Threat+Hunting;%E2%9A%A1+Embedded+IoT%2C+2.4GHz+RF+Telemetry+%26+RISC-V+OS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=toprakahmetaydogmus&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Views"/>
   <img src="https://img.shields.io/badge/Status-Securing%20Cyberspace-73daca?style=flat-square&logo=shield" alt="Status"/>
-  <img src="https://img.shields.io/badge/Location-Turkey%20🇹🇷-f7768e?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Turkey%20%F0%9F%87%B9%F0%9F%87%B7-f7768e?style=flat-square" alt="Location"/>
   <img src="https://img.shields.io/badge/Focus-Zero%20Trust%20%26%20Hardware-bb9af7?style=flat-square" alt="Focus"/>
 </p>
 
@@ -53,16 +53,6 @@ user:
     - "Post-Quantum Cryptography (NIST ML-KEM-768, ML-DSA-65)"
   motto: "「 Defend the unseen. Decrypt the unknown. Automate the future. 」"
 ```
-
----
-
-### 🏆 `[ TROPHIES & ACHIEVEMENTS ]`
-
-<div align="center">
-  <a href="https://github.com/toprakahmetaydogmus">
-    <img src="https://github-profile-trophy.vercel.app/?username=toprakahmetaydogmus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
 
 ---
 
@@ -127,21 +117,13 @@ user:
 
 ---
 
-### 📈 `[ METRICS & ACTIVITY TELEMETRY ]`
+### 📈 `[ ACTIVITY & TELEMETRY STREAM ]`
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toprakahmetaydogmus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toprakahmetaydogmus&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7&text_color=c0caf5" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toprakahmetaydogmus&theme=tokyonight&hide_border=true&background=00000000&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" width="97%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=toprakahmetaydogmus&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7aa2f7&line=bb9af7&point=73daca&area=true&hide_title=true" width="97%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=toprakahmetaydogmus&theme=tokyonight&hide_border=true&background=00000000&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" width="49%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toprakahmetaydogmus&theme=tokyonight" width="49%" alt="Profile Details" />
 </p>
 
 </div>
