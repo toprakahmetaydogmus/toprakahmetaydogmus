@@ -15,17 +15,17 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/toprak-ahmet-aydoğmuş-60462534b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/toprak-ahmet-aydo%C4%9Fmu%C5%9F-60462534b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:toprakahmetaydogmus0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://instagram.com/siberoot"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://cybertoprak.wixsite.com/siberegitim"><img src="https://img.shields.io/badge/Academy-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Academy"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=toprakahmetaydogmus&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Views"/>
-  <img src="https://img.shields.io/badge/Status-Securing%20Cyberspace-73daca?style=flat-square&logo=shield" alt="Status"/>
-  <img src="https://img.shields.io/badge/Location-Turkey%20%F0%9F%87%B9%F0%9F%87%B7-f7768e?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Focus-Zero%20Trust%20%26%20Hardware-bb9af7?style=flat-square" alt="Focus"/>
+  <a href="https://github.com/toprakahmetaydogmus"><img src="https://hits.sh/github.com/toprakahmetaydogmus.svg?style=flat-square&label=Profile%20Views&color=7aa2f7&labelColor=1a1b26" alt="Views"/></a>
+  <img src="https://img.shields.io/badge/Status-Securing%20Cyberspace-73daca?style=flat-square&labelColor=1a1b26" alt="Status"/>
+  <img src="https://img.shields.io/badge/Location-Turkey-f7768e?style=flat-square&labelColor=1a1b26" alt="Location"/>
+  <img src="https://img.shields.io/badge/Focus-Zero%20Trust%20%26%20Hardware-bb9af7?style=flat-square&labelColor=1a1b26" alt="Focus"/>
 </p>
 
 </div>
