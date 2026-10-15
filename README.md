@@ -106,8 +106,8 @@ user:
 
 | Project | Domain | Architecture & Key Features | Repository |
 |:---|:---|:---|:---:|
+| ⚡ **TZeroAlgorithm V4 (Flagship)** | `AI & Agentic Context` | Enterprise AST Context Engine & 21-Tool MCP Server (Up to 95% Token Reduction, Zero-Leak Security) | [**Explore (⭐ Star)**](https://github.com/toprakahmetaydogmus/TZeroAlgorithm) |
 | 🛡️ **Cybersecurity Monorepo** | `Enterprise Sec` | 20 End-to-End Labs (AD CS ESC1-8, SIEM, Falco eBPF, PQC, DFIR) | [**Explore**](https://github.com/toprakahmetaydogmus/cybersecurity-ecosystem) |
-| 🚀 **TZeroAlgorithm** | `AI & Agentic` | AI-Native Context Tree & Codebase README Architect (90% Token Saver) | [**Explore**](https://github.com/toprakahmetaydogmus/TZeroAlgorithm) |
 | 📡 **ESP8266 RF Testbed** | `Embedded IoT` | 2.4GHz Multi-Channel Spectrum Analyzer & Web GUI Controller | [**Explore**](https://github.com/toprakahmetaydogmus/esp8266-nrf24-jammer) |
 | ⚡ **UTS-JAM Ultimate** | `Hardware / RF` | Dual nRF24 + ESP32-C3 SuperMini + 128x32 OLED RF Lab Suite | [**Explore**](https://github.com/toprakahmetaydogmus/uts-jam) |
 | 🔍 **CVE Scanner** | `Threat Recon` | Real-Time NVD API v2.0 Ingestion + Shodan OSINT Network Discovery | [**Explore**](https://github.com/toprakahmetaydogmus/cve-scanner) |
