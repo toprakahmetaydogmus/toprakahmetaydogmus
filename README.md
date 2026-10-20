@@ -106,7 +106,7 @@ user:
 
 | Project | Domain | Architecture & Key Features | Repository |
 |:---|:---|:---|:---:|
-| ⚡ **TZeroAlgorithm V4 (Flagship)** | `AI & Agentic Context` | Enterprise AST Context Engine & 21-Tool MCP Server (Up to 95% Token Reduction, Zero-Leak Security) | [**Explore (⭐ Star)**](https://github.com/toprakahmetaydogmus/TZeroAlgorithm) |
+| ⚡ **T-Zero Algorithm v6.0 Master (Flagship)** | `AI & Autonomous MCP` | Enterprise AST Context Engine & 37-Tool Autonomous MCP Server (Up to 95% Token Reduction, 4D Causal Graph, PBFT Swarm Consensus & Zero-Leak) | [**Explore (⭐ Star)**](https://github.com/toprakahmetaydogmus/TZeroAlgorithm) |
 | 🛡️ **Cybersecurity Monorepo** | `Enterprise Sec` | 20 End-to-End Labs (AD CS ESC1-8, SIEM, Falco eBPF, PQC, DFIR) | [**Explore**](https://github.com/toprakahmetaydogmus/cybersecurity-ecosystem) |
 | 📡 **ESP8266 RF Testbed** | `Embedded IoT` | 2.4GHz Multi-Channel Spectrum Analyzer & Web GUI Controller | [**Explore**](https://github.com/toprakahmetaydogmus/esp8266-nrf24-jammer) |
 | ⚡ **UTS-JAM Ultimate** | `Hardware / RF` | Dual nRF24 + ESP32-C3 SuperMini + 128x32 OLED RF Lab Suite | [**Explore**](https://github.com/toprakahmetaydogmus/uts-jam) |
