@@ -100,13 +100,26 @@ user:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  FEATURED CYBERSECURITY & HARDWARE LAB REPOSITORIES                                    │
+│  🌟 FEATURED REPOSITORIES: T-ZERO SOVEREIGN SUITE (100% FREE & OPEN SOURCE)            │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+<div align="center">
+
+### 🧠 [T-Zero: Deterministic AST Context Compressor & MCP Server (v10.6.0)](https://github.com/toprakahmetaydogmus/TZeroAlgorithm)
+*Cuts AI coding context tokens by up to 94.6% using pure AST pruning, Pre-Flight Reality-Lock, and 20 Canonical MCP tools for Cursor, Claude Desktop, and Copilot.*
+
+[![Star T-Zero](https://img.shields.io/github/stars/toprakahmetaydogmus/TZeroAlgorithm?style=social)](https://github.com/toprakahmetaydogmus/TZeroAlgorithm)
+[![Open in Colab](https://img.shields.io/badge/%F0%9F%9A%80%20Colab-Live%20Demo-f9ab00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/toprakahmetaydogmus/TZeroAlgorithm/blob/main/notebooks/tzero_quickstart.ipynb)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Zero--GPU%20Demo-ffd21e?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/toprakke4/tzero-token-reducer)
+[![PyPI](https://img.shields.io/pypi/v/tzero-mcp?color=38bdf8&style=flat-square&logo=pypi)](https://pypi.org/project/tzero-mcp/)
+
+</div>
+
 | Project | Domain | Architecture & Key Features | Repository |
 |:---|:---|:---|:---:|
-| ⚡ **T-Zero Algorithm v6.0 Master (Flagship)** | `AI & Autonomous MCP` | Enterprise AST Context Engine & 37-Tool Autonomous MCP Server (Up to 95% Token Reduction, 4D Causal Graph, PBFT Swarm Consensus & Zero-Leak) | [**Explore (⭐ Star)**](https://github.com/toprakahmetaydogmus/TZeroAlgorithm) |
+| 🧠 **T-Zero v10.6.0 (Flagship)** | `AI & MCP Server` | Deterministic AST Context Compressor, Pre-Flight Reality-Lock, 1-Click Auto-Vault, and 20 MCP Tools | [**Explore (⭐ Star)**](https://github.com/toprakahmetaydogmus/TZeroAlgorithm) |
+| 🩺 **T-Zero PC-Fixer** | `OS & Codebase Doctor`| Autonomous Self-Healing Operating System Doctor & Codebase Surgeon (12,600+ Lines Pure Python) | [**Explore (⭐ Star)**](https://github.com/toprakahmetaydogmus/tzero-pc-fixer) |
 | 🛡️ **Cybersecurity Monorepo** | `Enterprise Sec` | 20 End-to-End Labs (AD CS ESC1-8, SIEM, Falco eBPF, PQC, DFIR) | [**Explore**](https://github.com/toprakahmetaydogmus/cybersecurity-ecosystem) |
 | 📡 **ESP8266 RF Testbed** | `Embedded IoT` | 2.4GHz Multi-Channel Spectrum Analyzer & Web GUI Controller | [**Explore**](https://github.com/toprakahmetaydogmus/esp8266-nrf24-jammer) |
 | ⚡ **UTS-JAM Ultimate** | `Hardware / RF` | Dual nRF24 + ESP32-C3 SuperMini + 128x32 OLED RF Lab Suite | [**Explore**](https://github.com/toprakahmetaydogmus/uts-jam) |
