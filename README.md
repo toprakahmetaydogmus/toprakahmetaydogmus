@@ -110,6 +110,7 @@ user:
 *Cuts AI coding context tokens by up to 95% with Rust + Python Hybrid AST pruning, Pre-Flight Reality-Lock, 180-Tier Anti-REA Armor, 100% Zero-Leak Audit, and 21 Canonical (58 Runtime) MCP tools for Cursor, Claude Code, Windsurf, and Antigravity IDE.*
 
 [![Star T-Zero](https://img.shields.io/github/stars/toprakahmetaydogmus/TZeroAlgorithm?style=social)](https://github.com/toprakahmetaydogmus/TZeroAlgorithm)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-T--Zero%20Launch-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/tzeroalgorithm?launch=tzeroalgorithm)
 [![Open in Colab](https://img.shields.io/badge/%F0%9F%9A%80%20Colab-Live%20Demo-f9ab00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/toprakahmetaydogmus/TZeroAlgorithm/blob/main/notebooks/tzero_quickstart.ipynb)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Zero--GPU%20Demo-ffd21e?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/toprakke4/tzero-token-reducer)
 [![Live Vercel Hub](https://img.shields.io/badge/%E2%9A%A1%20Live%20Hub-Vercel-000000?style=flat-square&logo=vercel)](https://tzero-indol.vercel.app)
