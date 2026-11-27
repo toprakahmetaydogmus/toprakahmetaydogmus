@@ -106,7 +106,7 @@ user:
 
 <div align="center">
 
-### 🧠 [T-Zero: Deterministic AST Context Compressor & MCP Server (v12.3.1)](https://github.com/toprakahmetaydogmus/TZeroAlgorithm)
+### 🧠 [T-Zero: Deterministic AST Context Compressor & MCP Server (v12.3.2)](https://github.com/toprakahmetaydogmus/TZeroAlgorithm)
 *Cuts AI coding context tokens by up to 95% with Rust + Python Hybrid AST pruning, Pre-Flight Reality-Lock, 180-Tier Anti-REA Armor, 100% Zero-Leak Audit, and 21 Canonical (58 Runtime) MCP tools for Cursor, Claude Code, Windsurf, and Antigravity IDE.*
 
 [![Star T-Zero](https://img.shields.io/github/stars/toprakahmetaydogmus/TZeroAlgorithm?style=social)](https://github.com/toprakahmetaydogmus/TZeroAlgorithm)
@@ -114,9 +114,9 @@ user:
 [![Open in Colab](https://img.shields.io/badge/%F0%9F%9A%80%20Colab-Live%20Demo-f9ab00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/toprakahmetaydogmus/TZeroAlgorithm/blob/main/notebooks/tzero_quickstart.ipynb)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Zero--GPU%20Demo-ffd21e?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/toprakke4/tzero-token-reducer)
 [![Live Vercel Hub](https://img.shields.io/badge/%E2%9A%A1%20Live%20Hub-Vercel-000000?style=flat-square&logo=vercel)](https://tzero-indol.vercel.app)
-[![PyPI](https://img.shields.io/badge/pypi-v12.3.1-3b82f6?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/tzero-mcp/)
+[![PyPI](https://img.shields.io/badge/pypi-v12.3.2-3b82f6?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/tzero-mcp/)
 [![npm](https://img.shields.io/npm/v/tzero-mcp?style=flat-square&logo=npm&color=cb3837)](https://www.npmjs.com/package/tzero-mcp)
-[![Open VSX](https://img.shields.io/badge/open--vsx-v12.3.1-8b5cf6?style=flat-square&logo=openvsx&logoColor=white)](https://open-vsx.org/extension/siber-akademi/tzero-vscode)
+[![Open VSX](https://img.shields.io/badge/open--vsx-v12.3.2-8b5cf6?style=flat-square&logo=openvsx&logoColor=white)](https://open-vsx.org/extension/siber-akademi/tzero-vscode)
 
 <p align="center">
   <a href="https://vibeshelf.co/tool/t-zero/"><img src="https://vibeshelf.co/badge.svg" width="200" height="44" alt="Listed on VibeShelf"/></a>
@@ -126,7 +126,7 @@ user:
 
 | Project | Domain | Architecture & Key Features | Repository |
 |:---|:---|:---|:---:|
-| 🧠 **T-Zero v12.3.1 (Flagship)** | `AI & MCP Server` | Rust + Python Hybrid AST Context Compressor (95% reduction), 180-Tier Anti-REA Armor, Reality-Lock, Zero-Leak Auto-Vault & 21/58 MCP Tools | [**Explore (⭐ Star)**](https://github.com/toprakahmetaydogmus/TZeroAlgorithm) |
+| 🧠 **T-Zero v12.3.2 (Flagship)** | `AI & MCP Server` | Rust + Python Hybrid AST Context Compressor (95% reduction), 180-Tier Anti-REA Armor, Reality-Lock, Zero-Leak Auto-Vault & 21/58 MCP Tools | [**Explore (⭐ Star)**](https://github.com/toprakahmetaydogmus/TZeroAlgorithm) |
 | 🩺 **T-Zero PC-Fixer** | `OS & Codebase Doctor`| Autonomous Self-Healing Operating System Doctor & Codebase Surgeon (12,600+ Lines Pure Python) | [**Explore (⭐ Star)**](https://github.com/toprakahmetaydogmus/tzero-pc-fixer) |
 | 🛡️ **Cybersecurity Monorepo** | `Enterprise Sec` | 20 End-to-End Labs (AD CS ESC1-8, SIEM, Falco eBPF, PQC, DFIR) | [**Explore**](https://github.com/toprakahmetaydogmus/cybersecurity-ecosystem) |
 | 📡 **ESP8266 RF Testbed** | `Embedded IoT` | 2.4GHz Multi-Channel Spectrum Analyzer & Web GUI Controller | [**Explore**](https://github.com/toprakahmetaydogmus/esp8266-nrf24-jammer) |
